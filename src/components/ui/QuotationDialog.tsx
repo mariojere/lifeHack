@@ -9,7 +9,7 @@ import {
 } from "@/components/ui/dialog";
 import { Button } from "@/components/ui/button";
 import { toast } from 'sonner';
-import { Check, Edit, Mail, Download, X } from 'lucide-react';
+import { Check, Edit, Mail, X } from 'lucide-react';
 import { ScrollArea } from "@/components/ui/scroll-area";
 
 interface QuotationDialogProps {

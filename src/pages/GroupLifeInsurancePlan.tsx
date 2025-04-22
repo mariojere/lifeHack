@@ -48,7 +48,6 @@ interface FormErrors {
 }
 
 const GroupLifeInsurancePlan: React.FC<GroupLifeInsurancePlanProps> = ({ 
-  onContinue,
   onPrevious,
   setFormValid = () => {},
   companyData = {

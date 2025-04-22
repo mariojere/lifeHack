@@ -1,4 +1,4 @@
-import React, { useState, useEffect, useRef } from 'react';
+import { useState, useEffect, useRef } from 'react';
 import Nav from './components/ui/nav';
 import CompanyDetails from './pages/CompanyDetails';
 import EmployeeDemographic from './pages/EmployeeDemographic';
